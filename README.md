@@ -1,16 +1,19 @@
-# laboratoriska_prva
+# Распоред за испити - Flutter апликација
 
-First Flutter project.
+Апликација за управување со распоред на испити, развиена во Flutter.  
+Апликацијата им овозможува на студентите едноставен преглед на испитите, при што се прикажуваат датумот и времето на одржување на секој испит, просториите каде се одвива, како и колку време преостанува до секој испит. Испитите се подредени во хронолошки редослед.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+---
+<img width="397" height="807" alt="photo1" src="https://github.com/user-attachments/assets/50e5c7c4-a52f-411e-a3a8-77c97774bbd8" />
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img width="392" height="816" alt="photo2" src="https://github.com/user-attachments/assets/cd08717d-5d97-47d6-861c-b4068aaf41fc" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+<img width="405" height="812" alt="photo3" src="https://github.com/user-attachments/assets/969345a7-6106-4474-93b0-55c2f937dc69" />
+
+
+---
+
+
